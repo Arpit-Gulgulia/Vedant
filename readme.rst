@@ -27,6 +27,7 @@ The website includes the following features
    
    
   Here I am showing how each features will looks like
+  
   1.Creating an Account on Vedant
   (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/SignUp.png)
   
