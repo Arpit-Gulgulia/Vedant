@@ -24,5 +24,7 @@ The website includes the following features
    7. Settings
    8. Profile page
    
-  #Creating an Account
+  Creating an Account on Vedant
+  ![alt text](https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/SignUp.png)
+  
   
