@@ -26,7 +26,7 @@ The website includes the following features
    9. Search functionality
    
    
-  Here I am showing how each features will looks like
+  Here I am showing how each features pages will looks like
   
   1.Creating an Account on Vedant
   (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/SignUp.png)
