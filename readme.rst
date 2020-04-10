@@ -23,8 +23,53 @@ The website includes the following features
    6. Trending, Recommendation, Subscription videos and Liked videos Pages
    7. Settings
    8. Profile page
+   9. Search functionality
    
-  Creating an Account on Vedant
-  ![alt text](https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/SignUp.png)
+   
+  Here I am showing how each features will looks like
+  1.Creating an Account on Vedant
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/SignUp.png)
+  
+  2.Login Page
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/SignIn.png)
+  
+  3.Uploading Video
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Upload.png)
+
+  4.Editing Videos details
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/EditVideo.png)
+  
+  5.Watching Video
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Watch.png)
+  
+  7.Trending Videos
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Trending.png)
+  
+  8.Subscription Videos
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Subscription.png)
+
+  9.Liked Videos
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/LikedVideo.png)
+  
+  10.Settings Page
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Settings.png)
+  
+  11.Profile Page
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Profile.png)
+  
+  12.Search functionality
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Search.png)
+  
+  13.Home Page
+  (https://raw.githubusercontent.com/Arpit-Gulgulia/Vedant/master/Screenshot/Home.png)
+
+  
+
+
+
+
+
+
+
   
   
