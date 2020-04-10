@@ -1,69 +1,28 @@
-###################
-What is CodeIgniter
-###################
+VEDANT is a web application which is an online version of books education where users can share their Educational lectures.
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+The websites comprises of different engineering educational category video lectures like for CSE, ECE, IT, Mechanical, CIVIL etc.
 
-*******************
-Release Information
-*******************
+The website is user friendly and it compatible on different browser.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+The website allows the user to create an account and use the site with the respective login.
 
-**************************
-Changelog and New Features
-**************************
+It allows the user to watch educational videos and also allow user to like , subscribe and comment on videos and can also maintain their own profile in site.
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+The web application can be used by any Educational Institute and make their videos available to their students online so students can study even sitting in remote places.
 
-*******************
-Server Requirements
-*******************
+The website is built using CodeIgnitor3, a PHP MVC framework .
 
-PHP version 5.4 or newer is recommended.
+The information is stored in MYSQL database.
 
-It should work on 5.2.4 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <http://www.codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <http://www.codeigniter.com/irc>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+The website includes the following features
+   1. Create account and Login System
+   2. Uploading the Videos and Editing details of previously uploaded videos.
+   3. Watching Videos
+   4. Like and Comments on Videos
+   5. Subscription 
+   6. Trending, Recommendation, Subscription videos and Liked videos Pages
+   7. Settings
+   8. Profile page
+   
+  #Creating an Account
+  
